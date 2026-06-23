@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+env/
+venv/
+.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.dbmdl
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+backend/.env
+
+# Build / packaging
+*.egg-info/
+build/
+dist/
+
+# Local data and caches
+backend/index_store/
+backend/uploads/
+
+# Python virtual env
+pip-wheel-metadata/

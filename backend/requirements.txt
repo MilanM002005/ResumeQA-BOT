@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+llama-index
+llama-index-readers-file
+llama-index-vector-stores-faiss
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+google-generativeai
+faiss-cpu
+PyPDF2
+python-dotenv
+aiofiles
+openai

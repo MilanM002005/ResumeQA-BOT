@@ -1,0 +1,12 @@
+**pycache**
+_.pyc
+_.pyo
+_.pyd
+_.db
+\*.log
+backend/.env
+backend/index_store
+backend/uploads
+.git
+.gitignore
+README.md
